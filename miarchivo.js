@@ -7,5 +7,5 @@ while(contraseña != "123456"){
 }
 
  if(contraseña === "123456"){
-     alert("Bienvenid@ " + nombre + "!")
+     alert(`Bienvenido ${nombre}!`)
  }
